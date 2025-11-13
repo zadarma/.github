@@ -3,6 +3,8 @@
 ## Zadarma API for business communication
 
 ### Pre-build classes
+[TypeScript](https://github.com/zadarma/user-api-typescript)
+
 [PHP](https://github.com/zadarma/user-api-v1)
 
 [Python](https://github.com/zadarma/user-api-py-v1)
